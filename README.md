@@ -1,5 +1,5 @@
 # Latest-Tweets
-Use **twitter API** to get the latest tweets through the past 2 weeks including a specific keyword and save them in a csv file . 
+Use **Twitter API** to get the latest tweets through the past 2 weeks including a specific keyword and save them in a csv file . 
 
 # Installation
 
